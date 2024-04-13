@@ -1,15 +1,1 @@
-{
-  "value": [
-    {
-      "a": 0,
-      "e": 0,
-      "q": "BluRay 1080p",
-      "s": "2.48 GB",
-      "l": "PrFYVxP/82q7RveLTW/TsJDRmzMyXFdX5e7zvPf40FvFg9YoobKMneHkNFhtzh1jDl7GG4RsUnPkk5MOgpOzups/0KQqiKAoznnO3tLoAB146ePHl1x5wpBku8Bs5q99ZFCm3gbCIzKEUuJ9wxENMTZ6NSYzC0EVk+YHTh100P47PqNyzB9HsP2xHcJRLmUJT9sHGDks1qj88B+PnETC4Uk3VljTbKfotvsm2j6A+dhpQb3vTTBKKkbu0vuO0Dq8lhpTvlezS8O9FJyxdK0LHDIwClw/IqyLDvf9smDKbldR/+IXvQRD4XBAEuMU3GtxDM0sURM5g0Ssi9vv9dpVcw==",
-      "t": 1
-    }
-  ],
-  "exception": null,
-  "isSuccess": true,
-  "message": "عملیات با موفقیت انجام شد"
-}
+{"value":[{"a":0,"e":0,"q":"BluRay 1080p","s":"2.48 GB","l":"PrFYVxP/82q7RveLTW/TsJDRmzMyXFdX5e7zvPf40FvFg9YoobKMneHkNFhtzh1jDl7GG4RsUnPkk5MOgpOzups/0KQqiKAoznnO3tLoAB146ePHl1x5wpBku8Bs5q99ZFCm3gbCIzKEUuJ9wxENMTZ6NSYzC0EVk+YHTh100P47PqNyzB9HsP2xHcJRLmUJT9sHGDks1qj88B+PnETC4Uk3VljTbKfotvsm2j6A+dhpQb3vTTBKKkbu0vuO0Dq8lhpTvlezS8O9FJyxdK0LHDIwClw/IqyLDvf9smDKbldR/+IXvQRD4XBAEuMU3GtxDM0sURM5g0Ssi9vv9dpVcw==","t":1}],"exception":null,"isSuccess":true,"message":"عملیات با موفقیت انجام شد"}
